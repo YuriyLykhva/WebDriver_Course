@@ -1,0 +1,4 @@
+Подберите xpath локатор к чекбоксу используя в качестве отправной точки текст "Step 1. ..."
+
+
+//div[text()='Step 1. Set the direction for self-development']/../preceding-sibling::div/div/div[@class='pdp-action-item-header__checkbox pdp-action-item-header__checkbox--unchecked']
